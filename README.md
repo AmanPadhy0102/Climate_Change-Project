@@ -135,7 +135,6 @@ After running `forecast.py`, a line graph appears showing historical vs. predict
 ---
 
 ## 📄 License
+This project is under the [MIT License](LICENSE). You’re free to modify and use it for personal, educational, or professional purposes.
 
 ## Made with ❤️ by Aman Padhy
-
-This project is under the [MIT License](LICENSE). You’re free to modify and use it for personal, educational, or professional purposes.
